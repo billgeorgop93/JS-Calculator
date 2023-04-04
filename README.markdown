@@ -7,4 +7,4 @@ https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-dev
 
 Codepen URL: [https://codepen.io/zer0fr0st93/full/zYGQoEo](https://codepen.io/zer0fr0st93/full/zYGQoEo)
 
-Live URL: https://zer0fr0st93.github.io/Js-Calculator/
+Live URL: https://zer0fr0st93.github.io/JS-Calculator/
